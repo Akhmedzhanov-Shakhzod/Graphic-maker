@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1585447749 source:d:\lab_3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+	<dos.h>
+
+1266065414 d:\a.sh.v\krsu\ОАП\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1587049925 source:d:\a.sh.v\krsu\ОАП\Новая папка\lab_3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<math.h>
+	<dos.h>
+
